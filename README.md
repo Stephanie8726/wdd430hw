@@ -5,9 +5,10 @@ npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel
 cd nextjs-dashboard
 pnpm i 
 pnpm dev
-http://localhost:3000
+
 
 
 
 Email: user@nextmail.com
 Password: 123456
+
